@@ -1,2 +1,2 @@
 # Sitio Freelancer
- Proyecto en el cual se practicará desarrollo web mediante el desarrollo de una pagina para un freelancer
+ This project aims to emulate a e-shop following the Udemy course
